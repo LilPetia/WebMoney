@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+<body>
+<h1> А ты знаешь ему цену?</h1>
+
+<form action="/game/answer">
+    <label>{{
+           value['currency']
+
+            }} рублей стоит {{   value['count'] }} </label> <input
+            name="ans"
+            type="text"
+    >
+   <label> </label>
+    <input type="hidden" , name=
+            "currency" , value=
+                   "{{ value['currency_name'] }}">
+
+    <p><input type="submit" value="да"></p>
+</form>
+
+</body>
+</html>

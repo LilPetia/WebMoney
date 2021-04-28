@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+<body>
+<h1> Курс валюты на сегодня</h1>
+
+ <form action="/game">
+
+                    <p><input type="submit" value="Поиграем?"></p>
+                </form>
+<table>
+    <tread>
+        <tr>
+            <td>Рубль</td>
+            <td>Валюта</td>
+            <td>Единиц</td>
+            <td>Курс</td>
+        </tr>
+    </tread>
+    {% for value in currency %}
+        <tr>
+            <td>Рубль</td>
+            <td>{{value['count']}}</td>
+            <td>{{value['currency_name']}}</td>
+            <td>{{value['currency']}}</td>
+        </tr>
+    {% endfor %}
+
+
+</table>
+</body>
+</html>

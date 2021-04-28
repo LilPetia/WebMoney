@@ -1,0 +1,24 @@
+body{
+    font-family: "Lato Hairline", Helvetica, Arial, sans-serif;
+    background-color: honeydew;
+    color: #29ff00;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+table{;
+    width: auto;
+}
+thead td{
+    font-weight: bold;
+    border-bottom:  solid darkblue;
+}
+tbody tr:nth-child(odd){
+    background-color: darkslateblue;
+}
+
+tbody tr:nth-child(even){
+    background-color: #ff0026;
+}
+
