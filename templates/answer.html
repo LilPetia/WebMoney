@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+<body>
+{% if data['name'] == data['currency'] %}
+    <p>Молодец</p>
+
+ <form action="/game">
+
+                    <p><input type="submit" value="Еще разок?"></p>
+                </form>
+{% endif %}
+{% if data['currency'] != data['name'] %}
+    <p>Мимо, правильный ответ: '{{ data['currency']}}'</p>
+
+ <form action="/game">
+
+                    <p><input type="submit" value="Сейчас точно повезет"></p>
+                </form>
+{% endif %}
+
+
+</body>
+</html>

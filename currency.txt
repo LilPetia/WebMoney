@@ -1,0 +1,34 @@
+{"count": 1, "currency_name": "Австралийский доллар", "currency": 58.2872}
+{"count": 1, "currency_name": "Азербайджанский манат", "currency": 44.1188}
+{"count": 100, "currency_name": "Армянских драмов", "currency": 14.4022}
+{"count": 1, "currency_name": "Белорусский рубль", "currency": 29.261}
+{"count": 1, "currency_name": "Болгарский лев", "currency": 46.2331}
+{"count": 1, "currency_name": "Бразильский реал", "currency": 13.7874}
+{"count": 100, "currency_name": "Венгерских форинтов", "currency": 24.9066}
+{"count": 1000, "currency_name": "Вон Республики Корея", "currency": 67.3775}
+{"count": 10, "currency_name": "Гонконгских долларов", "currency": 96.5715}
+{"count": 1, "currency_name": "Датская крона", "currency": 12.1608}
+{"count": 1, "currency_name": "Доллар США", "currency": 74.9578}
+{"count": 1, "currency_name": "Евро", "currency": 90.4666}
+{"count": 10, "currency_name": "Индийских рупий", "currency": 10.0429}
+{"count": 100, "currency_name": "Казахстанских тенге", "currency": 17.4521}
+{"count": 1, "currency_name": "Канадский доллар", "currency": 60.3817}
+{"count": 100, "currency_name": "Киргизских сомов", "currency": 88.3653}
+{"count": 1, "currency_name": "Китайский юань", "currency": 11.5569}
+{"count": 10, "currency_name": "Молдавских леев", "currency": 41.9607}
+{"count": 1, "currency_name": "Новый туркменский манат", "currency": 21.4472}
+{"count": 10, "currency_name": "Норвежских крон", "currency": 90.2497}
+{"count": 1, "currency_name": "Польский злотый", "currency": 19.8411}
+{"count": 1, "currency_name": "Румынский лей", "currency": 18.3599}
+{"count": 1, "currency_name": "СДР (специальные права заимствования)", "currency": 107.7196}
+{"count": 1, "currency_name": "Сингапурский доллар", "currency": 56.508}
+{"count": 10, "currency_name": "Таджикских сомони", "currency": 65.7236}
+{"count": 10, "currency_name": "Турецких лир", "currency": 90.7161}
+{"count": 10000, "currency_name": "Узбекских сумов", "currency": 71.0623}
+{"count": 10, "currency_name": "Украинских гривен", "currency": 26.9984}
+{"count": 1, "currency_name": "Фунт стерлингов Соединенного королевства", "currency": 104.0189}
+{"count": 10, "currency_name": "Чешских крон", "currency": 34.9568}
+{"count": 10, "currency_name": "Шведских крон", "currency": 89.1114}
+{"count": 1, "currency_name": "Швейцарский франк", "currency": 81.7692}
+{"count": 10, "currency_name": "Южноафриканских рэндов", "currency": 52.3266}
+{"count": 100, "currency_name": "Японских иен", "currency": 69.178}
